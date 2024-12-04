@@ -15,13 +15,14 @@ The problem involves analyzing game reviews (potentially sourced from gaming pla
 
 #### Assumptions:
 
-There exists a set of relevant features (such as gameplay, graphics, story, etc.) that directly influence the Review Score Class.
-The Review Score Class is consistent and reliable, reflecting the general perception of a game's quality by a significant sample of users.
+Features like copiesSold, price, revenue, avgPlaytime, and reviewScore have a direct or indirect relationship with the Review Score Class.
+Data is consistent, meaning that the values for each metric (e.g., avgPlaytime or revenue) are accurately recorded and representative of the game's performance and reception.
 
 #### Hypotheses:
 
-Games classified as "High" in Review Score Class possess specific feature combinations that distinguish them from "Low" or "Medium" games.
-Features such as game genre, average playtime, cost, or release date may significantly impact the Review Score Class.
+Games with higher avgPlaytime and copiesSold are more likely to fall into the "High" category of the Review Score Class.
+Games with lower price and higher revenue might attract more players, positively impacting their Review Score Class.
+reviewScore serves as a strong indicator of the Review Score Class, showing clear thresholds for Low, Medium, and High.
 
 
 ## Constraints or Conditions for Data Selection
@@ -34,4 +35,4 @@ Data containing missing values or anomalies will be treated or discarded to avoi
 
 ## Dataset Description
 
-[Data Catalog](DataCatalog.md)
+For a detailed description of each attribute in the dataset, including definitions, data types, and value ranges, refer to the [Data Catalog](DataCatalog.md)
