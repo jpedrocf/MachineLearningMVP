@@ -1,6 +1,6 @@
 # MachineLearningMVP
 
-
+COMEÇAR UM DATASET NOVO COM INFOS QUE NÃO SEJAM DE REVENUE? CARACTERISTICAS DE ESTILO DE JOGO, GAMEPLAY, DESIGN...
 Tentar localizar o reviewScoreClass com base nas outras métricas fornecidas, para checar quais métricas fazem um game ter bons reviews, colocar o que compõe o dataset, explicar que é uma reviewScoreClass é uma métrica criada, baseada na variável reviewScore
 
 
