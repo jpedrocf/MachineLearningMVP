@@ -1,7 +1,7 @@
 # MachineLearningMVP
 
 
-Tentar localizar o reviewScoreClass com base nas outras métricas fornecidas, para checar quais métricas fazem um game ter bons reviews.
+Tentar localizar o reviewScoreClass com base nas outras métricas fornecidas, para checar quais métricas fazem um game ter bons reviews, colocar o que compõe o dataset, explicar que é uma reviewScoreClass é uma métrica criada, baseada na variável reviewScore
 
 
 ## Problem Definition
@@ -30,3 +30,6 @@ The dataset must include at least three distinct classes for the Review Score Cl
 The number of records (games) must be sufficiently large to train and evaluate the Machine Learning model, ensuring representativeness for each class.
 The data must include at least some quantitative and qualitative variables that are interpretable in the context of game reviews.
 Data containing missing values or anomalies will be treated or discarded to avoid negatively affecting the model.
+
+
+
