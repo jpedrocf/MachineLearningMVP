@@ -5,7 +5,7 @@ Tentar localizar o reviewScoreClass com base nas outras métricas fornecidas, pa
 
 
 ## Problem Definition
-Objective:
+#### Objective:
 The objective of this project is to develop a Machine Learning model capable of classifying a game's Review Score Class into three categories: Low, Medium, and High. This classification aims to identify and understand the key features that contribute to a game's evaluation.
 
 ## Problem Description
