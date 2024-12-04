@@ -32,4 +32,6 @@ The data must include at least some quantitative and qualitative variables that 
 Data containing missing values or anomalies will be treated or discarded to avoid negatively affecting the model.
 
 
+## Dataset Description
 
+[Data Catalog](DataCatalog.md)
