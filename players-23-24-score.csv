@@ -1,6 +1,6 @@
 Team,Player,SofascoreScore
 Manchester City,Rodri,8.01
-Burnley,Arijanet Murić,8.0
+Burnley,Arijanet Muric,8.0
 Manchester City,Kevin De Bruyne,7.93
 Manchester City,Phil Foden,7.79
 Manchester United,Bruno Fernandes,7.75
@@ -118,8 +118,8 @@ Manchester United,Alejandro Garnacho,7.05
 Tottenham Hotspur,Timo Werner,7.05
 Crystal Palace,Cheick Doucouré,7.05
 Brentford,Ethan Pinnock,7.04
-Everton,Idrissa Gueye,7.04
-Sheffield United,Ben Brereton Díaz,7.04
+Everton,Idrissa Gana Gueye,7.04
+Sheffield United,Ben Brereton,7.04
 Chelsea,Malo Gusto,7.04
 Bournemouth,Dominic Solanke,7.04
 Arsenal,William Saliba,7.04
@@ -169,7 +169,7 @@ Brighton & Hove Albion,Julio Enciso,6.98
 Bournemouth,Marcos Senesi,6.98
 Bournemouth,Lewis Cook,6.98
 Manchester City,Rico Lewis,6.98
-Sheffield United,Wesley Foderingham,6.97
+Sheffield United,Wes Foderingham,6.97
 Fulham,Harry Wilson,6.97
 Nottingham Forest,Matt Turner,6.97
 Fulham,Antonee Robinson,6.97
@@ -183,7 +183,7 @@ Everton,Vitaliy Mykolenko,6.96
 Sheffield United,Oliver McBurnie,6.96
 Liverpool,Caoimhín Kelleher,6.96
 Aston Villa,Moussa Diaby,6.96
-Wolverhampton,Hee-Chan Hwang,6.96
+Wolverhampton,Hwang Hee-chan,6.96
 Chelsea,Raheem Sterling,6.96
 Arsenal,Jorginho,6.95
 Manchester City,Stefan Ortega,6.95
@@ -232,7 +232,7 @@ Chelsea,Trevoh Chalobah,6.9
 Bournemouth,Tyler Adams,6.9
 Arsenal,Mohamed Elneny,6.9
 Arsenal,Ethan Nwaneri,6.9
-Wolverhampton,Rayan Aït Nouri,6.89
+Wolverhampton,Rayan Aït-Nouri,6.89
 Newcastle United,Elliot Anderson,6.89
 Bournemouth,Antoine Semenyo,6.89
 Liverpool,Joe Gomez,6.89
@@ -260,10 +260,10 @@ Fulham,Timothy Castagne,6.87
 Aston Villa,Lucas Digne,6.87
 Crystal Palace,Marc Guéhi,6.87
 Everton,Ben Godfrey,6.87
-Brighton & Hove Albion,Igor Júlio,6.87
+Brighton & Hove Albion,Igor,6.87
 Chelsea,Ben Chilwell,6.87
 Manchester United,Victor Lindelöf,6.87
-Wolverhampton,Saša Kalajdžić,6.87
+Wolverhampton,Sasa Kalajdzic,6.87
 Manchester United,Christian Eriksen,6.86
 Manchester United,Rasmus Højlund,6.86
 Nottingham Forest,Ryan Yates,6.86
@@ -271,7 +271,7 @@ Manchester United,Jonny Evans,6.86
 Crystal Palace,Odsonne Édouard,6.86
 Aston Villa,Jhon Durán,6.86
 Nottingham Forest,Danilo,6.85
-Burnley,Jóhann Guðmundsson,6.85
+Burnley,Jóhann Berg Guðmundsson,6.85
 Luton Town,Mads Juel Andersen,6.85
 Nottingham Forest,Murillo,6.85
 Sheffield United,Oliver Arblaster,6.85
@@ -287,7 +287,7 @@ Tottenham Hotspur,Emerson,6.84
 Newcastle United,Sandro Tonali,6.84
 Brighton & Hove Albion,Danny Welbeck,6.83
 Bournemouth,James Hill,6.83
-Fulham,Bobby Decordova-Reid,6.83
+Fulham,Bobby Reid,6.83
 Luton Town,Reece Burke,6.83
 Aston Villa,Morgan Rogers,6.83
 Crystal Palace,Sam Johnstone,6.82
@@ -322,11 +322,11 @@ Brentford,Neal Maupay,6.79
 Arsenal,Emile Smith Rowe,6.79
 West Ham United,Nayef Aguerd,6.79
 Wolverhampton,Matt Doherty,6.79
-Sheffield United,Vinícius Souza,6.79
+Sheffield United,Vinicius Souza,6.79
 Brentford,Frank Onyeka,6.79
 Aston Villa,Jacob Ramsey,6.78
 Aston Villa,Clément Lenglet,6.78
-Fulham,Adama Traoré,6.77
+Fulham,Bénie Adama Traore,6.77
 Wolverhampton,Toti Gomes,6.77
 Nottingham Forest,Harry Toffolo,6.77
 Nottingham Forest,Gonzalo Montiel,6.77
@@ -336,7 +336,7 @@ Burnley,David Datro Fofana,6.76
 West Ham United,Maxwel Cornet,6.76
 Nottingham Forest,Ibrahim Sangaré,6.76
 Bournemouth,Illia Zabarnyi,6.76
-Nottingham Forest,Giovanni Reyna,6.75
+Nottingham Forest,Gio Reyna,6.75
 Aston Villa,Álex Moreno,6.75
 Luton Town,Tahith Chong,6.75
 Manchester United,Mason Mount,6.75
@@ -345,7 +345,7 @@ Luton Town,Cauley Woodrow,6.75
 Crystal Palace,Jeffrey Schlupp,6.75
 Nottingham Forest,Ola Aina,6.75
 Fulham,Calvin Bassey,6.75
-Crystal Palace,Jesurun Rak-Sakyi,6.74
+Crystal Palace,Jesurun Rak Sakyi,6.74
 Burnley,Michael Obafemi,6.74
 West Ham United,Kurt Zouma,6.74
 West Ham United,Vladimír Coufal,6.74
@@ -360,12 +360,12 @@ Newcastle United,Emil Krafth,6.73
 Brentford,Shandon Baptiste,6.73
 Sheffield United,Ivo Grbić,6.73
 Everton,Beto,6.73
-Bournemouth,Miloš Kerkez,6.73
+Bournemouth,Milos Kerkez,6.73
 Manchester United,Anthony Martial,6.73
 West Ham United,Saïd Benrahma,6.73
 Bournemouth,Lloyd Kelly,6.72
 Nottingham Forest,Nuno Tavares,6.72
-Nottingham Forest,Moussa Niakhaté,6.72
+Nottingham Forest,Moussa Niakhate,6.72
 Sheffield United,Cameron Archer,6.72
 Liverpool,Curtis Jones,6.72
 Burnley,Charlie Taylor,6.72
@@ -399,7 +399,7 @@ Tottenham Hotspur,Radu Drăgușin,6.69
 Sheffield United,Jack Robinson,6.69
 Everton,Ashley Young,6.69
 Bournemouth,Enes Ünal,6.68
-Nottingham Forest,Odysseas Vlachodimos,6.68
+Nottingham Forest,Odisseas Vlachodimos,6.68
 Brighton & Hove Albion,Adam Lallana,6.68
 Brighton & Hove Albion,Mahmoud Dahoud,6.68
 Crystal Palace,Joel Ward,6.68
@@ -451,15 +451,15 @@ Fulham,Armando Broja,6.61
 Wolverhampton,Nathan Fraser,6.61
 Crystal Palace,Matheus França,6.61
 Tottenham Hotspur,Alejo Véliz,6.6
-Wolverhampton,Enso González,6.6
+Wolverhampton,Enso Gonzalez,6.6
 Newcastle United,Alex Murphy,6.6
 Burnley,Han-Noah Massengo,6.6
-Luton Town,Ryan Giles,6.6
-Burnley,Manuel Benson,6.6
+Luton Town,Ryan John Giles,6.6
+Burnley,Benson Manuel,6.6
 Aston Villa,Tyrone Mings,6.6
 Chelsea,Roméo Lavia,6.6
 Liverpool,Owen Beck,6.6
-Wolverhampton,Jonny Otto,6.6
+Wolverhampton,Jonny Castro,6.6
 Manchester United,Jadon Sancho,6.6
 Sheffield United,Auston Trusty,6.59
 Burnley,Luca Koleosho,6.59
@@ -512,7 +512,7 @@ Liverpool,Ben Doak,6.5
 Sheffield United,Sydie Peck,6.5
 Chelsea,Mason Burstow,6.5
 Liverpool,James McConnell,6.5
-Brentford,Joshua Dasilva,6.5
+Brentford,Josh Dasilva,6.5
 Burnley,Jack Cork,6.5
 Crystal Palace,Naouirou Ahamada,6.5
 Sheffield United,Rhian Brewster,6.49
