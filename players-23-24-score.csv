@@ -12,19 +12,19 @@ Tottenham Hotspur,James Maddison,7.59
 Liverpool,Mohamed Salah,7.58
 Crystal Palace,Eberechi Eze,7.58
 Brighton & Hove Albion,Pascal Groß,7.55
-Tottenham Hotspur,Heung-min Son,7.55
+Tottenham Hotspur,Son Heung-min,7.55
 Manchester City,Bernardo Silva,7.53
 Newcastle United,Bruno Guimarães,7.49
 Liverpool,Andrew Robertson,7.43
 Arsenal,Declan Rice,7.43
-Manchester City,Jérémy Doku,7.42
+Manchester City,Jeremy Doku,7.42
 Newcastle United,Anthony Gordon,7.41
 Manchester City,Joško Gvardiol,7.4
 Brentford,Thomas Strakosha,7.4
 Liverpool,Virgil van Dijk,7.38
 Brighton & Hove Albion,Solly March,7.37
 Manchester City,Erling Haaland,7.36
-West Ham United,Alphonse Aréola,7.36
+West Ham United,Alphonse Areola,7.36
 Manchester City,Julián Álvarez,7.36
 Tottenham Hotspur,Pedro Porro,7.34
 Aston Villa,Ollie Watkins,7.32
@@ -152,9 +152,9 @@ Chelsea,Nicolas Jackson,7.01
 Liverpool,Jarell Quansah,7.01
 Crystal Palace,Jordan Ayew,7.0
 Chelsea,Levi Colwill,7.0
-Liverpool,Konstantinos Tsimikas,7.0
+Liverpool,Kostas Tsimikas,7.0
 Brentford,Rico Henry,7.0
-Chelsea,Josh Acheampong,7.0
+Chelsea,Joshua Acheampong,7.0
 Luton Town,James Shea,7.0
 Tottenham Hotspur,Davinson Sánchez,7.0
 Manchester City,Aymeric Laporte,7.0
@@ -181,7 +181,7 @@ Aston Villa,Boubacar Kamara,6.97
 Brentford,Mathias Jensen,6.97
 Everton,Vitaliy Mykolenko,6.96
 Sheffield United,Oliver McBurnie,6.96
-Liverpool,Caoimhin Kelleher,6.96
+Liverpool,Caoimhín Kelleher,6.96
 Aston Villa,Moussa Diaby,6.96
 Wolverhampton,Hee-Chan Hwang,6.96
 Chelsea,Raheem Sterling,6.96
@@ -197,7 +197,7 @@ Burnley,Sander Berge,6.95
 Burnley,Josh Brownhill,6.95
 Brentford,Vitaly Janelt,6.94
 Newcastle United,Miguel Almirón,6.94
-Manchester United,Amad Diallo,6.94
+Manchester United,Amadou Diallo,6.94
 Aston Villa,Ezri Konsa,6.94
 Manchester United,Kobbie Mainoo,6.94
 Brighton & Hove Albion,Jack Hinshelwood,6.94
@@ -213,10 +213,10 @@ West Ham United,Emerson Palmieri,6.93
 Chelsea,Reece James,6.93
 Luton Town,Tom Lockyer,6.92
 Crystal Palace,Tyrick Mitchell,6.92
-Arsenal,Fábio Vieira,6.92
+Arsenal,Fabio Vieira,6.92
 Sheffield United,Gustavo Hamer,6.92
 Fulham,Issa Diop,6.92
-Chelsea,Mykhaylo Mudryk,6.91
+Chelsea,Mykhailo Mudryk,6.91
 Burnley,Jordan Beyer,6.91
 Luton Town,Thomas Kaminski,6.91
 Nottingham Forest,Taiwo Awoniyi,6.91
@@ -240,7 +240,7 @@ Aston Villa,Matty Cash,6.89
 Newcastle United,Callum Wilson,6.89
 Tottenham Hotspur,Destiny Udogie,6.89
 Manchester United,Antony,6.89
-Arsenal,Edward Nketiah,6.89
+Arsenal,Eddie Nketiah,6.89
 Brentford,Sergio Reguilón,6.88
 Brighton & Hove Albion,James Milner,6.88
 Brentford,Kristoffer Ajer,6.88
@@ -283,7 +283,7 @@ Aston Villa,Pau Torres,6.84
 Crystal Palace,Dean Henderson,6.84
 Crystal Palace,Will Hughes,6.84
 Brentford,Ben Mee,6.84
-Tottenham Hotspur,Emerson Royal,6.84
+Tottenham Hotspur,Emerson,6.84
 Newcastle United,Sandro Tonali,6.84
 Brighton & Hove Albion,Danny Welbeck,6.83
 Bournemouth,James Hill,6.83
@@ -316,7 +316,7 @@ Manchester City,Matheus Nunes,6.8
 Chelsea,Benoît Badiashile,6.8
 Crystal Palace,Nathaniel Clyne,6.8
 Aston Villa,Philippe Coutinho,6.8
-Tottenham Hotspur,Pierre-Emile Højbjerg,6.8
+Tottenham Hotspur,Pierre Højbjerg,6.8
 Luton Town,Issa Kaboré,6.8
 Brentford,Neal Maupay,6.79
 Arsenal,Emile Smith Rowe,6.79
@@ -395,7 +395,7 @@ Everton,André Gomes,6.69
 Brentford,Kevin Schade,6.69
 Newcastle United,Matt Ritchie,6.69
 Brentford,Saman Ghoddos,6.69
-Tottenham Hotspur,Radu Drăguşin,6.69
+Tottenham Hotspur,Radu Drăgușin,6.69
 Sheffield United,Jack Robinson,6.69
 Everton,Ashley Young,6.69
 Bournemouth,Enes Ünal,6.68
@@ -429,7 +429,7 @@ Nottingham Forest,Joe Worrall,6.65
 Brighton & Hove Albion,Tariq Lamptey,6.65
 Brighton & Hove Albion,Jakub Moder,6.65
 Brentford,Aaron Hickey,6.65
-Sheffield United,James McAtee,6.65
+Sheffield United,James Mcatee,6.65
 Burnley,Lorenz Assignon,6.65
 Nottingham Forest,Divock Origi,6.64
 Burnley,Hjalmar Ekdal,6.64
@@ -497,7 +497,7 @@ Aston Villa,Nicolò Zaniolo,6.5
 Burnley,Hannes Delcroix,6.5
 Burnley,Aaron Ramsey,6.5
 Sheffield United,William Osula,6.5
-Liverpool,Stefan Bajčetić,6.5
+Liverpool,Stefan Bajcetic,6.5
 Sheffield United,Daniel Jebbison,6.5
 Newcastle United,Ben Parkinson,6.5
 Aston Villa,Finley Munroe,6.5
@@ -536,8 +536,8 @@ Tottenham Hotspur,Mikey Moore,6.4
 Aston Villa,Kaine Kesler-Hayden,6.4
 Sheffield United,Anis Ben Slimane,6.4
 Aston Villa,Omari Kellyman,6.4
-Liverpool,Thiago Alcântara,6.4
-Aston Villa,Jaden Philogene-Bidace,6.4
+Liverpool,Thiago Alcántara,6.4
+Aston Villa,Jaden Philogene Bidace,6.4
 Aston Villa,Bertrand Traoré,6.4
 Sheffield United,Antwoine Hackford,6.4
 Wolverhampton,Fábio Silva,6.39
