@@ -50,7 +50,6 @@ For a detailed description of each attribute in the dataset, including definitio
 - **Categorical Variable Encoding**:
   - Applied one-hot encoding to transform categorical variables into a format suitable for machine learning models.
 
----
 
 ## Data Analysis
 - **Scatter Plots**:
@@ -58,13 +57,11 @@ For a detailed description of each attribute in the dataset, including definitio
 - **Heatmaps**:
   - Analyzed feature correlations and interactions to identify patterns and potential predictors.
 
----
 
 ## Target Definition
 - **Target Exploration**:
   - Tested potential target variables using quartiles, absolute values, and clustering techniques to determine the most suitable target for prediction tasks.
 
----
 
 ## Model Testing
 - **Feature Engineering**:
@@ -78,7 +75,6 @@ For a detailed description of each attribute in the dataset, including definitio
     - **Model Workflow**:
       - Streamlined the modeling process to ensure reproducibility and efficiency.
 
----
 
 ## Machine Learning
 - **Voting Classifier**:
