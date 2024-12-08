@@ -32,7 +32,61 @@ The objective of this work is to train a model capable of analyzing the features
 
 ### Dataset Description
 
-For a detailed description of each attribute in the dataset, including definitions, data types, and value ranges, refer to the [Data Catalog](DataCatalog.md)
+For a detailed description of each attribute in the dataset, including definitions, data types, and value ranges, refer to the [Data Catalog](DataCatalog.md).
+
+# Notebook Workflow
+
+## Data Cleaning and Management
+- **Merging Datasets**:
+  - Combined the `Players 23-24` and `Players Score 23-24` tables for a unified dataset.
+- **Column Selection and Adjustment**:
+  - Curated and reformatted columns to create a cleaner and more concise dataset.
+- **Feature Creation**:
+  - Generated new columns to enhance insights and improve the effectiveness of machine learning algorithms.
+- **Handling Duplicates**:
+  - Consolidated duplicate records for players who changed clubs, summing their variables to accurately reflect their full season performance.
+- **Null Value Removal**:
+  - Eliminated missing values to ensure data integrity and readiness for analysis.
+- **Categorical Variable Encoding**:
+  - Applied one-hot encoding to transform categorical variables into a format suitable for machine learning models.
+
+---
+
+## Data Analysis
+- **Scatter Plots**:
+  - Visualized relationships between key numerical features.
+- **Heatmaps**:
+  - Analyzed feature correlations and interactions to identify patterns and potential predictors.
+
+---
+
+## Target Definition
+- **Target Exploration**:
+  - Tested potential target variables using quartiles, absolute values, and clustering techniques to determine the most suitable target for prediction tasks.
+
+---
+
+## Model Testing
+- **Feature Engineering**:
+  - Enhanced features through data transformations and derivations to improve model performance.
+- **Hyperparamer Tuning**
+  - Conducted systematic testing and tuning of model hyperparameters to optimize results.
+- **Pipelines**:
+  - Integrated steps for:
+    - **Data Transformation**:
+      - Applied normalization (scaling to [0, 1]) and standardization (scaling to zero mean and unit variance) to compare performance across machine learning models.
+    - **Model Workflow**:
+      - Streamlined the modeling process to ensure reproducibility and efficiency.
+
+---
+
+## Machine Learning
+- **Voting Classifier**:
+  - Implemented a Voting Classifier with tuned hyperparameters to combine the strengths of multiple models.
+- **Performance and Challenges**:
+  - Achieved consistent results but identified the need for additional data to reach top-tier performance, given the limited sample size.
+
+
 
 
 
