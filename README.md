@@ -52,7 +52,7 @@ For a detailed description of each attribute in the dataset, including definitio
 
 
 ## Data Analysis
-- **Scatter Plots**:
+- **Scatter Plot**:
   - Visualized relationships between key numerical features.
 - **Heatmaps**:
   - Analyzed feature correlations and interactions to identify patterns and potential predictors.
