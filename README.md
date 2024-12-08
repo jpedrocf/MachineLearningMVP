@@ -1,5 +1,8 @@
 # MachineLearningMVP - Premier League 23/24 Tierlist of Offensive Players
 
+![Premier League](https://github.com/user-attachments/assets/3efd50a9-7760-4946-863e-e23d9f31ff0d)
+
+
 ## Problem Definition
 #### Objective:
 
