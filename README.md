@@ -30,9 +30,11 @@ The objective of this work is to train a model capable of analyzing the features
 - The correlation between expected goals (xG) and actual goals (Gls) will help distinguish high-performing players. High-tier players will have a higher correlation between these metrics, as they convert expected goals into actual goals more effectively. I created a column named Effectiveness that calculates that proportion.
 
 
-#### Dataset Description
+### Dataset Description
 
 For a detailed description of each attribute in the dataset, including definitions, data types, and value ranges, refer to the [Data Catalog](DataCatalog.md)
+
+
 
 
 
