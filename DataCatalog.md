@@ -31,3 +31,15 @@ This dataset contains detailed data on all footballers from the 2023/24 premier 
 | PrgC (Progressive Carries)    | Integer | Number of times the player carried the ball forward.                  |
 | PrgP (Progressive Passes)     | Integer | Number of passes made by the player that moved the ball forward.      |
 | PrgR (Progressive Runs)       | Integer | Number of times the player made runs forward with the ball.           |
+
+
+About the Players Sofascore Score dataset
+
+This dataset contains Team, Player and SofascoreScore data, used to merge with the other dataset
+
+
+| Column                         | Type    | Description                                                            |
+|--------------------------------|---------|------------------------------------------------------------------------|
+| Player                         | String  | The name of the player.                                                |
+| Team                           | String  | The player's team.                                                     |
+| SofascoreScore                 | Float   | The player's Sofascore Score, based on the 23/24 Premier League season.|
