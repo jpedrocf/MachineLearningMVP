@@ -68,6 +68,18 @@ For a detailed description of each attribute in the dataset, including definitio
   - Enhanced features through data transformations and derivations to improve model performance.
 - **Hyperparamer Tuning**
   - Conducted systematic testing and tuning of model hyperparameters to optimize results.
+  - Tested Algorithms:
+      - Logistic Regression
+      - KNeighbors Classifier
+      - Decision Tree Classifier
+      - Naive Bayes
+      - SVM
+      - Bagging
+      - Random Forest
+      - Extra Trees
+      - AdaBoost
+      - Gradient Boosting
+      - Voting
 - **Pipelines**:
   - Integrated steps for:
     - **Data Transformation**:
