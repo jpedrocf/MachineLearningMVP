@@ -96,7 +96,22 @@ You can see all workflow here [Premier League Notebook](PremierLeagueMVP.ipynb)
   - Achieved consistent results but identified the need for additional data to reach top-tier performance, given the limited sample size.
 
 
+# Results Evaluation
 
+Based on the results obtained from the Voting Classifier model, we can conclude that the model performs well in classifying players into different tiers. The Test Accuracy achieved was 0.833, indicating that the model correctly predicted the tier for approximately 83% of the players in the test set.
+
+The Classification Report shows strong performance, particularly for the Mid Tier class, where the model achieved a precision of 0.94, a recall of 0.79, and an F1-score of 0.86, demonstrating a good balance between precision and recall. The Low Tier class also performed well, with a high recall of 0.95, meaning the model was highly sensitive in identifying low-tier players, though the precision was lower at 0.76. For the Top Tier class, the model's performance was less optimal, with a precision of 0.33 and recall of 0.50, suggesting that it had difficulty in accurately classifying top-tier players, probably because of the small sample in the dataset.
+
+Looking at the Confusion Matrix, we see that there is some misclassification, particularly for the Top Tier players, where only 1 player was correctly identified, while 1 was misclassified as a mid-tier player. However, overall, the model's performance across all classes is promising.
+
+In conclusion, while the Voting Classifier model shows strong overall performance, with good accuracy and balanced F1-scores for the low and mid tiers, further improvements can be made in identifying Top Tier players, inputing some new data containing Top Tier players.
+
+
+---
+
+I would like to thank the support and guidance from the PUC-Rio professors during this sprint. I am very grateful! I hope you enjoyed the MVP and I will continue studying to improve myself. Thank you!!
+
+<img src="https://pa1.aminoapps.com/6496/9b8856a1cbfa03a0603d54f2db3c315f8fdd1944_hq.gif" width="100" alt="Undertale GIF">
 
 
 
