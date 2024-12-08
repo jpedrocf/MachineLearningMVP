@@ -1,5 +1,24 @@
 # Data Catalog
 
+About the final dataset (with merge and created features), used for the machine learning
+
+| Column          | Type    | Feature/Target | Description                                                                 |
+|-----------------|---------|----------------|-----------------------------------------------------------------------------|
+| Starts          | Integer | Feature        | Number of matches the player started.                                       |
+| Min             | Float   | Feature        | Total minutes played by the player.                                         |
+| 90s             | Float   | Feature        | The equivalent of 90-minute matches played by the player.                   |
+| Gls             | Float   | Feature        | Total number of goals scored by the player.                                 |
+| Ast             | Float   | Feature        | Total number of assists made by the player.                                 |
+| xAG             | Float   | Feature        | The expected number of assists from the player's passes.                    |
+| Gls+Ast         | Float   | Feature        | Total number of goals and assists combined.                                 |
+| xAst+xG         | Float   | Feature        | Total of non-penalty expected goals and expected assists.                   |
+| Pos_FW          | Boolean | Feature        | Whether the player is a forward (`True` if yes, `False` if not).             |
+| Pos_MF          | Boolean | Feature        | Whether the player is a midfielder (`True` if yes, `False` if not).         |
+| Category Cluster| String  | Target         | The tier category for the player, with possible values: `Low Tier`, `Mid Tier`, `Top Tier`.|
+
+
+
+
 About the Premier League Players 23/24 Dataset
 
 This dataset contains detailed data on all footballers from the 2023/24 premier league season
