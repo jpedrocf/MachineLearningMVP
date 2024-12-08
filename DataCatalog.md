@@ -17,7 +17,7 @@ About the final dataset (with merge and created features), used for the machine 
 | Category Cluster| String  | Target         | The tier category for the player, with possible values: `Low Tier`, `Mid Tier`, `Top Tier`.|
 
 
-
+---
 
 About the Premier League Players 23/24 Dataset
 
@@ -51,6 +51,7 @@ This dataset contains detailed data on all footballers from the 2023/24 premier 
 | PrgP (Progressive Passes)     | Integer | Number of passes made by the player that moved the ball forward.      |
 | PrgR (Progressive Runs)       | Integer | Number of times the player made runs forward with the ball.           |
 
+---
 
 About the Players Sofascore Score dataset
 
