@@ -19,7 +19,7 @@ The objective of this work is to train a model capable of analyzing the features
 
 - The model will classify players without the use of external official ratings (like those from platforms such as Sofascore or Whoscored) in future seasons, relying solely on the players' features.
 
-- It is assumed that a supervised learning approach is appropriate for this task, and that sufficient labeled data (player features along with tier labels) is available for training the model.
+- It is assumed that a supervised learning approach is appropriate for this task, and that sufficient labeled data (player features along with their scores) is available for training the model.
 
 - It is assumed that the features being used (goals, assists, xG, xA, minutes played, etc.) are predictive of the player’s tier and will allow the model to make accurate predictions.
 
