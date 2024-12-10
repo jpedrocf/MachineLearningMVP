@@ -12,8 +12,11 @@ About the final dataset (with merge and created features), used for the machine 
 | xAG             | Float   | Feature        | The expected number of assists from the player's passes.                    |
 | Gls+Ast         | Float   | Feature        | Total number of goals and assists combined.                                 |
 | xAst+xG         | Float   | Feature        | Total of non-penalty expected goals and expected assists.                   |
-| Pos_FW          | Boolean | Feature        | Whether the player is a forward (`True` if yes, `False` if not).             |
+| Pos_FW          | Boolean | Feature        | Whether the player is a forward (`True` if yes, `False` if not).            |
 | Pos_MF          | Boolean | Feature        | Whether the player is a midfielder (`True` if yes, `False` if not).         |
+| PrgC (Progressive Carries)    | Integer | Feature | Number of times the player carried the ball forward.               |
+| PrgP (Progressive Passes)     | Integer | Feature | Number of passes made by the player that moved the ball forward.               |
+| PrgR (Progressive Runs)       | Integer | Feature | Number of times the player made runs forward with the ball.                    |
 | Category Cluster| String  | Target         | The tier category for the player, with possible values: `Low Tier`, `Mid Tier`, `Top Tier`.|
 
 
@@ -21,7 +24,7 @@ About the final dataset (with merge and created features), used for the machine 
 
 About the Premier League Players 23/24 Dataset
 
-This dataset contains detailed data on all footballers from the 2023/24 premier league season
+This dataset contains detailed data on all footballers from the 2023/24 premier league season - [Kaggle Premier League 23/24 Dataset](https://www.kaggle.com/datasets/orkunaktas/premier-league-all-players-stats-2324/data)
 
 
 
