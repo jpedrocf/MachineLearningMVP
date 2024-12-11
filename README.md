@@ -101,13 +101,14 @@ You can see all workflow here [Premier League Notebook](PremierLeagueMVP.ipynb)
 
 # Results Evaluation
 
-Based on the results obtained from the Voting Classifier model, we can conclude that the model performs well in classifying players into different tiers. The Test Accuracy achieved was 0.833, indicating that the model correctly predicted the tier for approximately 83% of the players in the test set.
+Based on the results obtained from the Voting Classifier model, we can conclude that model performs exceptionally well in classifying players into different tiers. The Test Accuracy achieved was 0.917, indicating that the model correctly predicted the tier for approximately 92% of the players in the test set.
 
-The Classification Report shows strong performance, particularly for the Mid Tier class, where the model achieved a precision of 0.94, a recall of 0.79, and an F1-score of 0.86, demonstrating a good balance between precision and recall. The Low Tier class also performed well, with a high recall of 0.95, meaning the model was highly sensitive in identifying low-tier players, though the precision was lower at 0.76. For the Top Tier class, the model's performance was less optimal, with a precision of 0.33 and recall of 0.50, suggesting that it had difficulty in accurately classifying top-tier players, probably because of the small sample in the dataset.
+The Classification Report demonstrates strong performance across all tiers. For the Low Tier, the model achieved an F1-score of 0.89, with perfect recall (1.00) and slightly lower precision (0.80), showing it is highly sensitive in identifying Low Tier players while occasionally misclassifying others as low tier. The Mid Tier performed the best overall, with an F1-score of 0.93, precision of 1.00, and recall of 0.87, highlighting a great balance between precision and recall. For the Top Tier, the model achieved a perfect F1-score of 1.00, with both precision and recall at 1.00, indicating that it flawlessly identified Top Tier players. However, this result might be influenced by the small sample size for this class (only 2 players).
 
-Looking at the Confusion Matrix, we see that there is some misclassification, particularly for the Top Tier players, where only 1 player was correctly identified, while 1 was misclassified as a mid-tier player. However, overall, the model's performance across all classes is promising.
+The Confusion Matrix confirms this performance. All Low Tier players were correctly classified, most Mid Tier players were correctly identified with only 5 misclassified as Low Tier, and both Top Tier players were correctly classified, highlighting the model's ability to recognize this group in the test set.
 
-In conclusion, while the Voting Classifier model shows strong overall performance, with good accuracy and balanced F1-scores for the low and mid tiers, further improvements can be made in identifying Top Tier players, inputing some new data containing Top Tier players.
+In conclusion, the Voting Classifier model demonstrates excellent performance overall, achieving high F1-scores and balanced metrics across all tiers. Further evaluation on a larger dataset, especially for Top Tier players, would help validate these results.
+
 
 
 ---
