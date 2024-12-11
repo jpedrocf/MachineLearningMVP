@@ -58,7 +58,7 @@ This dataset contains detailed data on all footballers from the 2023/24 premier 
 
 About the Players Sofascore Score dataset
 
-This dataset contains Team, Player and SofascoreScore data, used to merge with the other dataset
+This dataset contains Team, Player and SofascoreScore data, used to merge with the other dataset - [Sofascore Premier League 23/24 Datas](https://www.sofascore.com/pt/torneio/futebol/england/premier-league/17#id:52186)
 
 
 | Column                         | Type    | Description                                                            |
