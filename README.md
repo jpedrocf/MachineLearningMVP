@@ -109,6 +109,13 @@ The Confusion Matrix confirms this performance. All Low Tier players were correc
 
 In conclusion, the Voting Classifier model demonstrates excellent performance overall, achieving high F1-scores and balanced metrics across all tiers. Further evaluation on a larger dataset, especially for Top Tier players, would help validate these results.
 
+# Premier League 22/23 Season Model Testing and Evaluation
+
+In this iteration, I evaluated the performance of my previously trained ensemble model using a new dataset from the 22/23 football season. The goal was to determine the model's ability to generalize and accurately predict outcomes based on historical features from this earlier season. The model achieved a test accuracy of 70.3%. Upon further analysis, the results showed notable differences in performance across the classes. For the "Low Tier" class, the model performed well, with high precision and recall, indicating it could identify most instances of this class correctly. The performance for the "Mid Tier" class was moderate, showing balanced precision and recall, but with room for improvement. However, the "Top Tier" class posed the greatest challenge. While the precision for this class was perfect, suggesting that all predictions made for "Top Tier" were accurate, the recall was considerably lower, at 0.24, indicating that the model struggled to identify the majority of actual "Top Tier" instances.
+
+This imbalance in performance can be explained by the distribution of the training data. During the model's training and testing on the original dataset, there were only two instances of the "Top Tier" class, which likely caused the model to underfit this category. As a result, when applied to the 22/23 dataset, the model appeared overly cautious about predicting "Top Tier" instances. Nonetheless, the perfect precision for this class suggests that the model is confident and accurate when it does make a prediction, though it remains hesitant to classify instances as "Top Tier." This highlights the need to address class imbalance to improve recall for underrepresented categories.
+
+Overall, testing the model with the 22/23 season dataset demonstrated its potential to generalize across different datasets. However, the results also emphasize areas that require improvement, particularly in handling class imbalance and improving recall for the "Top Tier" category. These findings provide valuable insights for refining the model and enhancing its predictive capabilities in future iterations.
 
 
 ---
